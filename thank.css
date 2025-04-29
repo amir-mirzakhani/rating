@@ -42,6 +42,11 @@ body {
 .container p {
   color: hsl(217, 12%, 63%);
   margin-bottom: 0.8rem;
-  text-align: justify;
   line-height: 1.5rem;
+}
+@media (min-width: 700px) {
+  .container {
+    width: 25rem;
+    padding: 2rem;
+  }
 }
