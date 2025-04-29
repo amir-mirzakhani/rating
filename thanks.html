@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>thanks</title>
+    <link rel="stylesheet" href="thank.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <img src="./assets/images/illustration-thank-you.svg" alt="phone" />
+        <span class="number"></span>
+        <h1>Thank You!</h1>
+        <p>
+          We appreciate you taking the time to give a rating. if you ever need
+          more support.don't hesitate to get in touch!
+        </p>
+      </div>
+    </header>
+    <script>
+      const params = new URLSearchParams(location.search);
+      const number = params.get("rating");
+      document.querySelector(
+        ".number"
+      ).innerText = `You selected ${number} out of 5`;
+    </script>
+  </body>
+</html>
