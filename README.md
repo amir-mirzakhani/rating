@@ -13,7 +13,6 @@
 ## 🔗 Live Demo
 
 > 👉 [View Demo Here](https://amir-mirzakhani.github.io/rating/)  
-> <sub>_Replace this link with your hosted version_</sub>
 
 ---
 
