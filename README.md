@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/images/desktop-design.jpg" alt="Preview of Rating Component" width="400"/>
+  <img src="./assets/images/desktop-design.jpg" alt="Preview of Rating Component"/>
 </p>
 
 ---
 
 ## 🔗 Live Demo
 
-> 👉 [View Demo Here](https://your-demo-link.com)  
+> 👉 [View Demo Here](https://amir-mirzakhani.github.io/rating/)  
 > <sub>_Replace this link with your hosted version_</sub>
 
 ---
